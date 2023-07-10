@@ -1,0 +1,57 @@
+1	L6 IT Car3_1
+2	L6 IT Car3_2
+3	L5/6 NP_1
+4	L5/6 NP_2
+5	L6 CT_1
+6	L6 CT_2
+7	L6b_1
+8	L6b_2
+9	L6b_3
+10	L5 ET_1
+11	L5 ET_2
+12	L2/3 IT_2
+13	L2/3 IT_1
+14	L2/3 IT_3
+15	L6 IT_1
+16	L4 IT_1
+17	L5 IT_1
+18	L4 IT_2
+19	L5 IT_2
+20	Lamp5_Lhx6_1
+21	Lamp5_1
+22	Lamp5_2
+23	Pax6_1
+24	Pax6_2
+25	Sncg_3
+26	Sncg_1
+27	Sncg_2
+28	Vip_8
+29	Vip_4
+30	Vip_7
+31	Vip_5
+32	Vip_6
+33	Vip_3
+34	Vip_1
+35	Vip_2
+36	Chandelier_1
+37	Pvalb_3
+38	Pvalb_4
+39	Pvalb_1
+40	Pvalb_2
+41	Sst_6
+42	Sst_7
+43	Sst_8
+44	Sst_1
+45	Sst_2
+46	Sst_3
+47	Sst_9
+48	Sst_4
+49	Sst_5
+50	Sst Chodl_1
+51	OPC_1
+52	OPC_2
+53	Astro_1
+54	Oligo_1
+55	VLMC_1
+56	Endo_1
+57	Micro-PVM_1
