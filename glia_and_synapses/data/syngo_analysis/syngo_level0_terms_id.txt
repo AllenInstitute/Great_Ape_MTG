@@ -1,0 +1,2 @@
+syngo_term_name	syngo_ref_id	syngo_level
+all syngo genes	A0	SynGO_Level_0

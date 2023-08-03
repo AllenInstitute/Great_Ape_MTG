@@ -1,0 +1,48 @@
+family_name	genes_in_family
+Other neuropeptides and receptors	ADCYAP1;AGRP;CORT;IAPP;NPVF;NPW;OXGR1;PDYN;PENK;PNOC;POMC;PPY
+Vasoactive intestinal peptide family	ADCYAP1R1;VIP;VIPR1;VIPR2
+Adrenomedullin family	ADM;ADM2
+Adrenoceptor family	ADRA1A;ADRA1B;ADRA1D;ADRA2A;ADRA2B;ADRA2C;ADRB1;ADRB2;ADRB3
+Angiotensin family	AGT;AGTR1;AGTR2
+Apelin family	APLN;APLNR
+Arginine vasopressin family	AVP;AVPR1A;AVPR1B;AVPR2
+Calcitonin family	CALCA;CALCB;CALCR;CALCRL
+Cholecystokinin family	CCK;CCKAR;CCKBR
+Glycoprotein hormone receptor family	CGA;CGB1;CGB2;CGB3;CGB5;CGB7;CGB8;FSHB;FSHR;GPHA2;GPHB5;LHB;LHCGR;TSHB;TSHR
+Granin family	CHGA;CHGB;GNAS;PCSK1N;SCG2;SCG3;SCG5;VGF
+Corticotropin releasing hormone family	CRH;CRHBP;CRHR1;CRHR2
+Growth hormone family and related	CSH1;CSH2;CSHL1;GHR;PRL;PRLR
+Bradykinin family	BDKRB1;BDKRB2;KNG1
+Endotelin family	EDN1;EDN2;EDN3;EDNRA;EDNRB
+Galanin family	GAL;GALP;GALR1;GALR2;GALR3
+Gastrin family and related	GAST;GRP;GRPR
+Glucagon receptor family and related	GHRH;GHRHR;GIP;GIPR;GLP1R;GLP2R;SCT;SCTR
+Ghrelin receptor family	GHRL;GHSR
+Gonadotropin releasing hormone family	GNRH1;GNRH2;GNRHR;GNRHR2
+Hypocretin family	HCRT;HCRTR1;HCRTR2
+Insulin like growth factor family	IGF1;IGF1R;IGF2;IGF2R;IGFBP1;IGFBP2;IGFBP3;IGFBP4;IGFBP5;IGFBP6;IGFBP7
+Insulin family	INS;INSR;INSRR
+KISS1 family	KISS1;KISS1R
+Leptin family	LEP;LEPR
+MCHR family	MCHR1;MCHR2;PMCH
+Motilin family	MLN;MLNR
+MTNR family	MTNR1A;MTNR1B
+Neuromedin family	NMB;NMBR;NMS;NMU;NMUR1;NMUR2
+Neuropeptide family	NPB;NPBWR1;NPBWR2
+Neuropeptide FF family	NPFF;NPFFR1;NPFFR2
+Natriuretic family	NPPA;NPPB;NPPC;NPR1;NPR2;NPR3
+Neuropeptide S family	NPS;NPSR1
+Neuropeptide Y family	NPY;NPY1R;NPY2R;NPY4R;NPY4R2;NPY5R;NPY6R
+Neurotensin family	NTS;NTSR1;NTSR2
+Opioid receptor family	OPRD1;OPRK1;OPRL1;OPRM1
+Oxytocin family	OXT;OXTR
+Prolactin releasing hormone family	PRLH;PRLHR
+Prokineticin family	PROK1;PROK2;PROKR1;PROKR2
+Parathyroid hormone family	PTH;PTH1R;PTH2;PTH2R;PTHLH
+QRF peptide family	QRFP;QRFPR
+Relaxin family	RLN1;RLN2;RLN3;RXFP1;RXFP2;RXFP3;RXFP4
+Somatostatin family	SST;SSTR1;SSTR2;SSTR3;SSTR4;SSTR5
+Tachykinin family	TAC1;TAC3;TAC4;TACR1;TACR2;TACR3
+Thyrotropin releasing hormone family	TRH;TRHR
+Urocortin family	UCN;UCN2;UCN3
+Urotensin family	UTS2;UTS2B;UTS2R

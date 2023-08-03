@@ -1,0 +1,83 @@
+syngo_term_name	syngo_ref_id	syngo_level
+synaptic membrane	A1	CC_Level_1
+extrinsic component of synaptic membrane	A2	CC_Level_2
+integral component of synaptic membrane	A3	CC_Level_2
+presynapse	B1	CC_Level_1
+presynaptic cytosol	B2	CC_Level_2
+presynaptic cytoskeleton	B3	CC_Level_2
+presynaptic active zone	B4	CC_Level_2
+presynaptic endocytic zone	B5	CC_Level_2
+presynaptic endosome	B6	CC_Level_2
+synaptic vesicle	B7	CC_Level_2
+neuronal dense core vesicle	B8	CC_Level_2
+presynaptic membrane	B9	CC_Level_2
+presynaptic ribosome	B10	CC_Level_2
+presynaptic ER	B11	CC_Level_2
+synaptic cleft	C1	CC_Level_1
+extracellular matrix of synaptic cleft	C2	CC_Level_2
+postsynapse	D1	CC_Level_1
+postsynaptic cytosol	D2	CC_Level_2
+postsynaptic cytoskeleton	D3	CC_Level_2
+spine apparatus	D4	CC_Level_2
+postsynaptic Golgi apparatus	D5	CC_Level_2
+postsynaptic specialization	D6	CC_Level_2
+postsynaptic endocytic zone	D7	CC_Level_2
+postsynaptic endosome	D8	CC_Level_2
+postsynaptic membrane	D9	CC_Level_2
+postsynaptic ribosome	D10	CC_Level_2
+postsynaptic ER	D11	CC_Level_2
+extrasynaptic space	E1	CC_Level_1
+perisynaptic extracellular matrix	E2	CC_Level_2
+process in the presynapse	F1	BP_Level_1
+regulation of presynaptic cytosolic calcium levels	F2	BP_Level_2
+regulation of presynaptic membrane potential	F3	BP_Level_2
+presynaptic endocytosis	F4	BP_Level_2
+synaptic vesicle cycle	F5	BP_Level_2
+presynaptic dense core vesicle exocytosis	F6	BP_Level_2
+neurotransmitter uptake	F7	BP_Level_2
+neurotransmitter reuptake	F8	BP_Level_2
+presynaptic chaperone-mediated protein folding	F9	BP_Level_2
+presynaptic signaling pathway	F10	BP_Level_2
+process in the postsynapse	G1	BP_Level_1
+regulation of postsynaptic cytosolic calcium levels	G2	BP_Level_2
+regulation of postsynaptic membrane potential	G3	BP_Level_2
+regulation of postsynaptic neurotransmitter receptor activity	G4	BP_Level_2
+regulation of postsynaptic membrane neurotransmitter receptor levels	G5	BP_Level_2
+postsynaptic dense core vesicle exocytosis	G6	BP_Level_2
+postsynaptic signaling pathway	G7	BP_Level_2
+synaptic signaling	H1	BP_Level_1
+trans-synaptic signaling	H2	BP_Level_2
+synaptic signaling via neuropeptide	H3	BP_Level_2
+synaptic signaling by nitric oxide	H4	BP_Level_2
+synapse organization	I1	BP_Level_1
+presynapse organization	I2	BP_Level_2
+postsynapse organization	I3	BP_Level_2
+modification of synaptic structure	I4	BP_Level_2
+regulation of synapse organization	I5	BP_Level_2
+structural constituent of synapse	I6	BP_Level_2
+structural constituent of synapse-associated extracellular matrix	I7	BP_Level_2
+synapse adhesion between pre- and post-synapse	I8	BP_Level_2
+synaptic target recognition	I9	BP_Level_2
+synapse assembly	I10	BP_Level_2
+synapse disassembly	I11	BP_Level_2
+synapse maturation	I12	BP_Level_2
+maintenance of synapse structure	I13	BP_Level_2
+presynaptic cytoskeleton organization	I14	BP_Level_2
+postsynaptic cytoskeleton organization	I15	BP_Level_2
+metabolism	J1	BP_Level_1
+ATP metabolic process in the presynapse	J2	BP_Level_2
+ATP metabolic process in the postsynapse	J3	BP_Level_2
+"protein catabolic process, modulating synaptic transmission"	J4	BP_Level_2
+"regulation of protein catabolic process at synapse, modulating synaptic transmission"	J5	BP_Level_2
+"regulation of translation at synapse, modulating synaptic transmission"	J6	BP_Level_2
+neurotransmitter catabolic process	J7	BP_Level_2
+protein catabolic process at synapse	J8	BP_Level_2
+neurotransmitter biosynthetic process	J9	BP_Level_2
+translation at synapse	J10	BP_Level_2
+RNA polyadenylation at postsynapse	J11	BP_Level_2
+transport	K1	BP_Level_1
+axo-dendritic transport	K2	BP_Level_2
+synaptic vesicle cytoskeletal transport	K3	BP_Level_2
+synaptic vesicle recycling via endosome	K4	BP_Level_2
+establishment of endoplasmic reticulum localization to postsynapse	K5	BP_Level_2
+neurotransmitter receptor transport	K6	BP_Level_2
