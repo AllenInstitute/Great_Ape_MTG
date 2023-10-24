@@ -1,0 +1,139 @@
+gene_name	Approved name	Family_name
+ADORA1	adenosine A1 receptor	Adenosine receptor
+ADORA2A	adenosine A2a receptor	Adenosine receptor
+ADORA2B	adenosine A2b receptor	Adenosine receptor
+ADORA3	adenosine A3 receptor	Adenosine receptor
+CHRM1	cholinergic receptor muscarinic 1	Cholinergic receptor muscarinic
+CHRM2	cholinergic receptor muscarinic 2	Cholinergic receptor muscarinic
+CHRM3	cholinergic receptor muscarinic 3	Cholinergic receptor muscarinic
+CHRM4	cholinergic receptor muscarinic 4	Cholinergic receptor muscarinic
+CHRM5	cholinergic receptor muscarinic 5	Cholinergic receptor muscarinic
+CHRNA1	cholinergic receptor nicotinic alpha 1 subunit	Cholinergic receptor nicotinic
+CHRNA2	cholinergic receptor nicotinic alpha 2 subunit	Cholinergic receptor nicotinic
+CHRNA3	cholinergic receptor nicotinic alpha 3 subunit	Cholinergic receptor nicotinic
+CHRNA4	cholinergic receptor nicotinic alpha 4 subunit	Cholinergic receptor nicotinic
+CHRNA5	cholinergic receptor nicotinic alpha 5 subunit	Cholinergic receptor nicotinic
+CHRNA6	cholinergic receptor nicotinic alpha 6 subunit	Cholinergic receptor nicotinic
+CHRNA7	cholinergic receptor nicotinic alpha 7 subunit	Cholinergic receptor nicotinic
+CHRNA9	cholinergic receptor nicotinic alpha 9 subunit	Cholinergic receptor nicotinic
+CHRNA10	cholinergic receptor nicotinic alpha 10 subunit	Cholinergic receptor nicotinic
+CHRNB1	cholinergic receptor nicotinic beta 1 subunit	Cholinergic receptor nicotinic
+CHRNB2	cholinergic receptor nicotinic beta 2 subunit	Cholinergic receptor nicotinic
+CHRNB3	cholinergic receptor nicotinic beta 3 subunit	Cholinergic receptor nicotinic
+CHRNB4	cholinergic receptor nicotinic beta 4 subunit	Cholinergic receptor nicotinic
+CHRND	cholinergic receptor nicotinic delta subunit	Cholinergic receptor nicotinic
+CHRNE	cholinergic receptor nicotinic epsilon subunit	Cholinergic receptor nicotinic
+CHRNG	cholinergic receptor nicotinic gamma subunit	Cholinergic receptor nicotinic
+DRD1	dopamine receptor D1	Dopamine receptor
+DRD2	dopamine receptor D2	Dopamine receptor
+DRD3	dopamine receptor D3	Dopamine receptor
+DRD4	dopamine receptor D4	Dopamine receptor
+DRD5	dopamine receptor D5	Dopamine receptor
+GABBR1	gamma-aminobutyric acid type B receptor subunit 1	GABA type B receptor
+GABBR2	gamma-aminobutyric acid type B receptor subunit 2	GABA type B receptor
+GABRA1	gamma-aminobutyric acid type A receptor subunit alpha1	GABA type A receptor
+GABRA2	gamma-aminobutyric acid type A receptor subunit alpha2	GABA type A receptor
+GABRA3	gamma-aminobutyric acid type A receptor subunit alpha3	GABA type A receptor
+GABRA4	gamma-aminobutyric acid type A receptor subunit alpha4	GABA type A receptor
+GABRA5	gamma-aminobutyric acid type A receptor subunit alpha5	GABA type A receptor
+GABRA6	gamma-aminobutyric acid type A receptor subunit alpha6	GABA type A receptor
+GABRB1	gamma-aminobutyric acid type A receptor subunit beta1	GABA type A receptor
+GABRB2	gamma-aminobutyric acid type A receptor subunit beta2	GABA type A receptor
+GABRB3	gamma-aminobutyric acid type A receptor subunit beta3	GABA type A receptor
+GABRD	gamma-aminobutyric acid type A receptor subunit delta	GABA type A receptor
+GABRE	gamma-aminobutyric acid type A receptor subunit epsilon	GABA type A receptor
+GABRG1	gamma-aminobutyric acid type A receptor subunit gamma1	GABA type A receptor
+GABRG2	gamma-aminobutyric acid type A receptor subunit gamma2	GABA type A receptor
+GABRG3	gamma-aminobutyric acid type A receptor subunit gamma3	GABA type A receptor
+GABRP	gamma-aminobutyric acid type A receptor subunit pi	GABA type A receptor
+GABRQ	gamma-aminobutyric acid type A receptor subunit theta	GABA type A receptor
+GABRR1	gamma-aminobutyric acid type A receptor subunit rho1	GABA type A receptor
+GABRR2	gamma-aminobutyric acid type A receptor subunit rho2	GABA type A receptor
+GABRR3	gamma-aminobutyric acid type A receptor subunit rho3	GABA type A receptor
+GLRA1	glycine receptor alpha 1	Glycine receptor
+GLRA2	glycine receptor alpha 2	Glycine receptor
+GLRA3	glycine receptor alpha 3	Glycine receptor
+GLRA4	glycine receptor alpha 4 (pseudogene)	Glycine receptor
+GLRB	glycine receptor beta	Glycine receptor
+GRIA1	glutamate ionotropic receptor AMPA type subunit 1	Glutamate ionotropic receptor AMPA
+GRIA2	glutamate ionotropic receptor AMPA type subunit 2	Glutamate ionotropic receptor AMPA
+GRIA3	glutamate ionotropic receptor AMPA type subunit 3	Glutamate ionotropic receptor AMPA
+GRIA4	glutamate ionotropic receptor AMPA type subunit 4	Glutamate ionotropic receptor AMPA
+GRID1	glutamate ionotropic receptor delta type subunit 1	Glutamate ionotropic receptor delta
+GRID2	glutamate ionotropic receptor delta type subunit 2	Glutamate ionotropic receptor delta
+GRIK1	glutamate ionotropic receptor kainate type subunit 1	Glutamate ionotropic receptor kainate
+GRIK2	glutamate ionotropic receptor kainate type subunit 2	Glutamate ionotropic receptor kainate
+GRIK3	glutamate ionotropic receptor kainate type subunit 3	Glutamate ionotropic receptor kainate
+GRIK4	glutamate ionotropic receptor kainate type subunit 4	Glutamate ionotropic receptor kainate
+GRIK5	glutamate ionotropic receptor kainate type subunit 5	Glutamate ionotropic receptor kainate
+GRIN1	glutamate ionotropic receptor NMDA type subunit 1	Glutamate ionotropic receptor NMDA
+GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A	Glutamate ionotropic receptor NMDA
+GRIN2B	glutamate ionotropic receptor NMDA type subunit 2B	Glutamate ionotropic receptor NMDA
+GRIN2C	glutamate ionotropic receptor NMDA type subunit 2C	Glutamate ionotropic receptor NMDA
+GRIN2D	glutamate ionotropic receptor NMDA type subunit 2D	Glutamate ionotropic receptor NMDA
+GRIN3A	glutamate ionotropic receptor NMDA type subunit 3A	Glutamate ionotropic receptor NMDA
+GRIN3B	glutamate ionotropic receptor NMDA type subunit 3B	Glutamate ionotropic receptor NMDA
+GRM1	glutamate metabotropic receptor 1	Glutamate metabotropic receptor
+GRM2	glutamate metabotropic receptor 2	Glutamate metabotropic receptor
+GRM3	glutamate metabotropic receptor 3	Glutamate metabotropic receptor
+GRM4	glutamate metabotropic receptor 4	Glutamate metabotropic receptor
+GRM5	glutamate metabotropic receptor 5	Glutamate metabotropic receptor
+GRM6	glutamate metabotropic receptor 6	Glutamate metabotropic receptor
+GRM7	glutamate metabotropic receptor 7	Glutamate metabotropic receptor
+GRM8	glutamate metabotropic receptor 8	Glutamate metabotropic receptor
+HRH1	histamine receptor H1	Histamine receptor
+HRH2	histamine receptor H2	Histamine receptor
+HRH3	histamine receptor H3	Histamine receptor
+HRH4	histamine receptor H4	Histamine receptor
+HTR1A	5-hydroxytryptamine receptor 1A	5-hydroxytryptamine G protein-coupled receptor
+HTR1B	5-hydroxytryptamine receptor 1B	5-hydroxytryptamine G protein-coupled receptor
+HTR1D	5-hydroxytryptamine receptor 1D	5-hydroxytryptamine G protein-coupled receptor
+HTR2B	5-hydroxytryptamine receptor 2B	5-hydroxytryptamine G protein-coupled receptor
+HTR2C	5-hydroxytryptamine receptor 2C	5-hydroxytryptamine G protein-coupled receptor
+HTR3A	5-hydroxytryptamine receptor 3A	5-hydroxytryptamine ionotropic receptor
+HTR3B	5-hydroxytryptamine receptor 3B	5-hydroxytryptamine ionotropic receptor
+HTR3C	5-hydroxytryptamine receptor 3C	5-hydroxytryptamine ionotropic receptor
+HTR3D	5-hydroxytryptamine receptor 3D	5-hydroxytryptamine ionotropic receptor
+HTR3E	5-hydroxytryptamine receptor 3E	5-hydroxytryptamine ionotropic receptor
+HTR4	5-hydroxytryptamine receptor 4	5-hydroxytryptamine G protein-coupled receptor
+HTR5A	5-hydroxytryptamine receptor 5A	5-hydroxytryptamine G protein-coupled receptor
+HTR6	5-hydroxytryptamine receptor 6	5-hydroxytryptamine G protein-coupled receptor
+HTR7	5-hydroxytryptamine receptor 7	5-hydroxytryptamine G protein-coupled receptor
+P2RX1	purinergic receptor P2X 1	Purinergic receptor
+P2RX2	purinergic receptor P2X 2	Purinergic receptor
+P2RX3	purinergic receptor P2X 3	Purinergic receptor
+P2RX4	purinergic receptor P2X 4	Purinergic receptor
+P2RX5	purinergic receptor P2X 5	Purinergic receptor
+P2RX6	purinergic receptor P2X 6	Purinergic receptor
+P2RX7	purinergic receptor P2X 7	Purinergic receptor
+P2RY1	purinergic receptor P2Y1	Purinergic receptor
+P2RY2	purinergic receptor P2Y2	Purinergic receptor
+P2RY4	pyrimidinergic receptor P2Y4	Purinergic receptor
+P2RY6	pyrimidinergic receptor P2Y6	Purinergic receptor
+P2RY11	purinergic receptor P2Y11	Purinergic receptor
+P2RY12	purinergic receptor P2Y12	Purinergic receptor
+P2RY13	purinergic receptor P2Y13	Purinergic receptor
+P2RY14	purinergic receptor P2Y14	Purinergic receptor
+TAAR1	trace amine associated receptor 1	Trace amine associated receptor
+TAAR2	trace amine associated receptor 2	Trace amine associated receptor
+TAAR3P	"trace amine associated receptor 3, pseudogene"	Trace amine associated receptor
+TAAR4P	"trace amine associated receptor 4, pseudogene"	Trace amine associated receptor
+TAAR5	trace amine associated receptor 5	Trace amine associated receptor
+TAAR6	trace amine associated receptor 6	Trace amine associated receptor
+TAAR7P	"trace amine associated receptor 7, pseudogene"	Trace amine associated receptor
+TAAR8	trace amine associated receptor 8	Trace amine associated receptor
+TAAR9	trace amine associated receptor 9	Trace amine associated receptor
+SLC1A3	EAAT1	Glutamate transporter
+SLC1A2	EAAT2	Glutamate transporter
+SLC1A1	EAAT3	Glutamate transporter
+SLC1A6	EAAT4	Glutamate transporter
+SLC1A7	EAAT5	Glutamate transporter
+SLC17A7	VGLUT1	Glutamate transporter
+SLC17A6	VGLUT2	Glutamate transporter
+SLC17A8	VGLUT3	Glutamate transporter
+SLC6A1	GABA transporter type 1	GABA transporter
+SLC6A13	GABA transporter type 2	GABA transporter
+SLC6A11	GABA transporter type 3	GABA transporter
+SLC6A12	Betaine transporter	GABA transporter
+SLC6A8	Creatinine transporter 1	GABA transporter
+SLC6A6	Taurine transporter	GABA transporter
