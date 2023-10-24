@@ -1,0 +1,25 @@
+Species	ID	Age_yrs	Sex
+Callithrix jacchus	bi005	2.3	M
+Callithrix jacchus	bi006	3.2	F
+Callithrix jacchus	bi007	2.5	M
+Gorilla gorilla	G19.32.001	46	F
+Gorilla gorilla	G19.32.002	50	F
+Gorilla gorilla	G20.32.001	42	M
+Gorilla gorilla	G20.32.002	50	F
+Homo sapiens	H18.30.001	60	F 
+Homo sapiens	H18.30.002	50	M 
+Homo sapiens	H19.30.001	42	M 
+Homo sapiens	H19.30.002	29	M 
+Homo sapiens	H200.1023 	43	F 
+Homo sapiens	H200.1025 	50	M 
+Homo sapiens	H200.1030 	54	M 
+Macaca mulatta	Q19.26.010	10	F
+Macaca mulatta	Q19.26.011	12	F
+Macaca mulatta	Q19.26.015	11	F
+Pan troglodytes	C19.32.001	29	M
+Pan troglodytes	C19.32.002	33	F
+Pan troglodytes	C19.32.003	33	M
+Pan troglodytes	C19.32.004	34	F
+Pan troglodytes	C19.32.005	45	M
+Pan troglodytes	C19.32.006	45	M
+Pan troglodytes	C19.32.007	46	F
